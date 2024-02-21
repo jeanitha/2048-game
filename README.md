@@ -12,7 +12,7 @@ javac Game.java
 ```
 4. Run the game by typing the following command:
 ```
-java Game
+java Game.java
 ```
 
 Enjoy playing 2048!
